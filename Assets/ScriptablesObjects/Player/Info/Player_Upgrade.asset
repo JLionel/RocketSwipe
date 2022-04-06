@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef7a4e47dac07c447a86723ccfbcda27, type: 3}
+  m_Name: Player_Upgrade
+  m_EditorClassIdentifier: 
+  speedLevel: {fileID: 11400000, guid: d0f35a44a3d43f64ab5986d18010f7e5, type: 2}
+  fuelLevel: {fileID: 11400000, guid: 0a27ed6c6fbb5b64eaed58aab5e13377, type: 2}
+  playerMoney: {fileID: 11400000, guid: 8eb7db4d04398024dbfd018e4dbe6b06, type: 2}
+  playerPricing: {fileID: 11400000, guid: 9e77758f2415c2b4d9e57b1f4befe72f, type: 2}

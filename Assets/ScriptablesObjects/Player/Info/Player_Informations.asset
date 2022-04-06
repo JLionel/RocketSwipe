@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c6919d3c2de9ea4ba19c9c9896607de, type: 3}
+  m_Name: Player_Informations
+  m_EditorClassIdentifier: 
+  playerUpgrade: {fileID: 11400000, guid: 20ca72a56fb9bc645bb604a3dd5f648f, type: 2}
+  playerPricing: {fileID: 11400000, guid: 9e77758f2415c2b4d9e57b1f4befe72f, type: 2}
+  rocketSpeed: {fileID: 11400000, guid: b5567d0789e14724986b3e891c34aae2, type: 2}
+  rocketFuel: {fileID: 11400000, guid: c2a93cb674f2b0f469c0e017859b76f7, type: 2}
+  speedLevel: {fileID: 11400000, guid: d0f35a44a3d43f64ab5986d18010f7e5, type: 2}
+  fuelLevel: {fileID: 11400000, guid: 0a27ed6c6fbb5b64eaed58aab5e13377, type: 2}
+  speedLevelNumber:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.5
+      inSlope: 4.8577447
+      outSlope: 4.8577447
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.046847906
+    - serializedVersion: 3
+      time: 500.5647
+      value: 200
+      inSlope: 2.4229136
+      outSlope: 2.4229136
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.1771268
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  fuelLevelNumber:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 23.833557
+      inSlope: 55.145416
+      outSlope: 55.145416
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.3400972
+    - serializedVersion: 3
+      time: 50
+      value: 2000
+      inSlope: 377.02866
+      outSlope: 377.02866
+      tangentMode: 0
+      weightedMode: 3
+      inWeight: 0.104907
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

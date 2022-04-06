@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2385427335
+    locked: 0
+  - name: Stars
+    uniqueID: 2713403435
+    locked: 0
+  - name: Sun_Moon
+    uniqueID: 985379139
+    locked: 0
+  - name: ThirdPlan
+    uniqueID: 1317460349
+    locked: 0
+  - name: SecondPlan
+    uniqueID: 3873781347
+    locked: 0
+  - name: FirstPlan
+    uniqueID: 2501545701
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
