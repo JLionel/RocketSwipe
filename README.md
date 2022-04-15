@@ -8,8 +8,8 @@ Small project made in a short amount of time to test mobiles games creation on U
   Learn how mobiles games are made with Unity.
 
 ### Technology used
-  Unity 2020.3.32
-  C#
+- Unity 2020.3.32
+- C#
 
 ### Time to realize it
 23 hours
