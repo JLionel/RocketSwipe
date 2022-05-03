@@ -1,5 +1,5 @@
 # RocketSwipe
-Mobile game.
+Self-taught mobile game.
 
 # Context
 Small project made in a short amount of time to test mobiles games creation on Unity.
